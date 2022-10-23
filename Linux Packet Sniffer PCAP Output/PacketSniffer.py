@@ -1,3 +1,8 @@
+# Edward Brutski
+# 10/22/2022
+# CYB 333, Professor Heurmann
+# Course Project Option 2
+
 import socket
 from struct import pack
 import time
